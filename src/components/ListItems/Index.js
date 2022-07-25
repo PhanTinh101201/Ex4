@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
 import Indexitems from '../Items/Indexitems'
-import Navar from '../Navar/Navar';
+import Navar from '../Sidebar/Sidebar';
 const Container = styled.div`
 display: flex;
 flex-wrap: wrap;
+gap: 10px;
 `
 const Index = () => {
   return (

@@ -1,3 +1,6 @@
+.app{
+  overflow: hidden;
+}
 input{
   width: 400px;
 }

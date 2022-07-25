@@ -4,7 +4,7 @@ import '../../App.css';
 
 const Container = styled.div`
 width: 200px;
-height : 650px;
+height : 670px;
 background:	#FF8C00;
 `
 const Navar = () => {
